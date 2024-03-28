@@ -6,4 +6,4 @@ Here are every details about the next Software Carpentry workshop to be held in 
 
 https://unistra.github.io/2024-05-13-software-carpentry/
 
-But do not hesitate to contact the organizers at: openaccessmonth [at] unistra.fr in case of unclear instructions or information!
+Do not hesitate to contact the organizers at: openaccessmonth [at] unistra.fr in case of unclear instructions or information!
